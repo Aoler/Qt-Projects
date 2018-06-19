@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>qss/blue.qss</file>
+        <file>qss/dark.qss</file>
+        <file>qss/deppBlue.qss</file>
+        <file>qss/shared.qss</file>
+        <file>qss/toggle.qss</file>
+        <file>qss/white.qss</file>
+    </qresource>
+</RCC>
